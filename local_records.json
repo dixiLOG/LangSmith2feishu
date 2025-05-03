@@ -128,5 +128,55 @@
     "run_id": "993c6c2e-dce3-42c1-b8d9-af3a940ededf",
     "timestamp": "2025-05-02T07:34:15",
     "record_id": "recuK9tojMhG4O"
+  },
+  {
+    "fields": {
+      "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
+      "timestamp": "2025-05-03T16:31:19",
+      "input": "违规后果"
+    },
+    "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
+    "timestamp": "2025-05-03T16:31:19",
+    "record_id": "recuK9wJ10kflG"
+  },
+  {
+    "fields": {
+      "run_id": "3cbe52e4-fdfa-4451-b973-3cb76d77b02c",
+      "timestamp": "2025-05-03T16:29:24",
+      "input": "违规违纪的学生还能入党吗"
+    },
+    "run_id": "3cbe52e4-fdfa-4451-b973-3cb76d77b02c",
+    "timestamp": "2025-05-03T16:29:24",
+    "record_id": "recuK9wJ108duE"
+  },
+  {
+    "fields": {
+      "run_id": "29d640d7-5c08-4c1d-ae2d-1954df9238a2",
+      "timestamp": "2025-05-03T16:27:10",
+      "input": "公示途径在哪里"
+    },
+    "run_id": "29d640d7-5c08-4c1d-ae2d-1954df9238a2",
+    "timestamp": "2025-05-03T16:27:10",
+    "record_id": "recuK9wJ10Vrhz"
+  },
+  {
+    "fields": {
+      "run_id": "5f753bc2-ff85-4ab8-8523-63a2cc9eff94",
+      "timestamp": "2025-05-03T16:25:16",
+      "input": "结果何时公示"
+    },
+    "run_id": "5f753bc2-ff85-4ab8-8523-63a2cc9eff94",
+    "timestamp": "2025-05-03T16:25:16",
+    "record_id": "recuK9wJ10kaRt"
+  },
+  {
+    "fields": {
+      "run_id": "3ad16a70-199b-4a89-bb09-c40fac045a76",
+      "timestamp": "2025-05-03T16:22:47",
+      "input": "你好，我是大二的学生，我在大一时已经递交入党申请书，希望成为积极分子，应该怎么做？"
+    },
+    "run_id": "3ad16a70-199b-4a89-bb09-c40fac045a76",
+    "timestamp": "2025-05-03T16:22:47",
+    "record_id": "recuK9wJ10qcZr"
   }
 ]
