@@ -1,0 +1,4 @@
+langsmith
+requests
+python-dotenv
+ipykernel 
