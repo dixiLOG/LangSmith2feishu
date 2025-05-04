@@ -228,5 +228,45 @@
     "run_id": "6351d112-dfda-49dc-9e6f-6f1edb155385",
     "timestamp": "2025-05-04T01:16:47",
     "record_id": "recuKbN5PaG7ZZ"
+  },
+  {
+    "fields": {
+      "run_id": "4cf49024-c156-44f9-bae2-e08563c75979",
+      "timestamp": "2025-05-04T08:52:18",
+      "input": "兰花象征什么？"
+    },
+    "run_id": "4cf49024-c156-44f9-bae2-e08563c75979",
+    "timestamp": "2025-05-04T08:52:18",
+    "record_id": "recuKdw17O535O"
+  },
+  {
+    "fields": {
+      "run_id": "2b5aad0d-bcc3-48ed-8f49-07a42df6e38b",
+      "timestamp": "2025-05-04T08:51:46",
+      "input": "兰生幽谷与党的理念相关吗？"
+    },
+    "run_id": "2b5aad0d-bcc3-48ed-8f49-07a42df6e38b",
+    "timestamp": "2025-05-04T08:51:46",
+    "record_id": "recuKdw17O8K4A"
+  },
+  {
+    "fields": {
+      "run_id": "4e09d73d-41e4-43d8-9d44-003fe47f4d18",
+      "timestamp": "2025-05-04T08:51:13",
+      "input": "兰生幽谷，不为莫服而不芳，体现了党的什么理念"
+    },
+    "run_id": "4e09d73d-41e4-43d8-9d44-003fe47f4d18",
+    "timestamp": "2025-05-04T08:51:13",
+    "record_id": "recuKdw17OXbAp"
+  },
+  {
+    "fields": {
+      "run_id": "6362cc44-59e6-4035-abeb-0f534fe531fe",
+      "timestamp": "2025-05-04T08:50:28",
+      "input": "巴拉拉全身变"
+    },
+    "run_id": "6362cc44-59e6-4035-abeb-0f534fe531fe",
+    "timestamp": "2025-05-04T08:50:28",
+    "record_id": "recuKdw17Oufm5"
   }
 ]
