@@ -278,5 +278,65 @@
     "run_id": "c2a26b08-5ab9-466b-a88c-37004f97f429",
     "timestamp": "2025-05-04T09:00:22",
     "record_id": "recuKdxCWbDH01"
+  },
+  {
+    "fields": {
+      "run_id": "0b3e0fc6-97ba-4423-9ed2-cc7aea22ca72",
+      "timestamp": "2025-05-06T00:42:22",
+      "input": "我在企业工作过，今年6月辞职，9月研究生入学后党员组织关系转到了信息学院，现在党费该交到哪里？缴纳标准是多少？"
+    },
+    "run_id": "0b3e0fc6-97ba-4423-9ed2-cc7aea22ca72",
+    "timestamp": "2025-05-06T00:42:22",
+    "record_id": "recuKnGzZkm5Nh"
+  },
+  {
+    "fields": {
+      "run_id": "f8886a70-ee5b-4607-bdbf-4458794faf25",
+      "timestamp": "2025-05-06T00:40:25",
+      "input": "我是预备党员，我现在要申请转正，主要流程有哪些"
+    },
+    "run_id": "f8886a70-ee5b-4607-bdbf-4458794faf25",
+    "timestamp": "2025-05-06T00:40:25",
+    "record_id": "recuKnGzZk4yae"
+  },
+  {
+    "fields": {
+      "run_id": "efd673b9-2921-4241-a152-0f004b383387",
+      "timestamp": "2025-05-06T00:39:06",
+      "input": "怎样向培养联系人汇报"
+    },
+    "run_id": "efd673b9-2921-4241-a152-0f004b383387",
+    "timestamp": "2025-05-06T00:39:06",
+    "record_id": "recuKnGzZkgtda"
+  },
+  {
+    "fields": {
+      "run_id": "22681581-dffc-4f3d-b14b-c06af654f58e",
+      "timestamp": "2025-05-06T00:38:42",
+      "input": "我现在是入党积极分子，怎样才能符合发展对象的条件"
+    },
+    "run_id": "22681581-dffc-4f3d-b14b-c06af654f58e",
+    "timestamp": "2025-05-06T00:38:42",
+    "record_id": "recuKnGzZkoM7U"
+  },
+  {
+    "fields": {
+      "run_id": "b02ea425-845c-4387-8633-a4ef666b1c9e",
+      "timestamp": "2025-05-06T00:38:01",
+      "input": "我现在是入党积极分子，怎样才能符合发展对象的条件"
+    },
+    "run_id": "b02ea425-845c-4387-8633-a4ef666b1c9e",
+    "timestamp": "2025-05-06T00:38:01",
+    "record_id": "recuKnGzZklH9y"
+  },
+  {
+    "fields": {
+      "run_id": "62340d6a-f416-434c-bd9d-2df40474e964",
+      "timestamp": "2025-05-06T00:36:49",
+      "input": "我要开支部党员大会，具体有哪些流程"
+    },
+    "run_id": "62340d6a-f416-434c-bd9d-2df40474e964",
+    "timestamp": "2025-05-06T00:36:49",
+    "record_id": "recuKnGzZkXpuz"
   }
 ]
