@@ -388,5 +388,75 @@
     "run_id": "ab826f57-d529-4055-bca2-eda8b0a3c30d",
     "timestamp": "2025-05-09T04:14:17",
     "record_id": "recuKFD4JzN2ke"
+  },
+  {
+    "fields": {
+      "run_id": "5f614cb0-b929-482f-bce0-a9b194ef6c23",
+      "timestamp": "2025-05-09T04:29:51",
+      "input": "入党流程具体步骤"
+    },
+    "run_id": "5f614cb0-b929-482f-bce0-a9b194ef6c23",
+    "timestamp": "2025-05-09T04:29:51",
+    "record_id": "recuKFHBWcyMS6"
+  },
+  {
+    "fields": {
+      "run_id": "c1b9d11a-7274-464c-8d32-d175d32dede9",
+      "timestamp": "2025-05-09T04:28:44",
+      "input": "我是大一新生，希望获知入党流程细目"
+    },
+    "run_id": "c1b9d11a-7274-464c-8d32-d175d32dede9",
+    "timestamp": "2025-05-09T04:28:44",
+    "record_id": "recuKFHBWcAUxX"
+  },
+  {
+    "fields": {
+      "run_id": "d59c52b4-ebaf-496c-817c-0849965a0225",
+      "timestamp": "2025-05-09T04:27:58",
+      "input": "我今年毕业了，目前没有找到工作，也没有收入，党员组织关系还保留在学院，我该找哪个单位缴纳\n党费？每个月要交多少党费？"
+    },
+    "run_id": "d59c52b4-ebaf-496c-817c-0849965a0225",
+    "timestamp": "2025-05-09T04:27:58",
+    "record_id": "recuKFHBWcRBCg"
+  },
+  {
+    "fields": {
+      "run_id": "d8d11b44-a144-434d-acfe-178bda877a11",
+      "timestamp": "2025-05-09T04:27:20",
+      "input": "我今年毕业了，目前没有找到工作，也没有收入，党员组织关系还保留在学院，我该找哪个单位缴纳\n党费？每个月要交多少党费？"
+    },
+    "run_id": "d8d11b44-a144-434d-acfe-178bda877a11",
+    "timestamp": "2025-05-09T04:27:20",
+    "record_id": "recuKFHBWcgZte"
+  },
+  {
+    "fields": {
+      "run_id": "52f3d601-cf76-44e5-9f7c-2db16c34afa5",
+      "timestamp": "2025-05-09T04:26:59",
+      "input": "我今年毕业了，目前没有找到工作，也没有收入，党员组织关系还保留在学院，我该找哪个单位缴纳\n党费？每个月要交多少党费？"
+    },
+    "run_id": "52f3d601-cf76-44e5-9f7c-2db16c34afa5",
+    "timestamp": "2025-05-09T04:26:59",
+    "record_id": "recuKFHBWcDnaJ"
+  },
+  {
+    "fields": {
+      "run_id": "fac17b2c-63cf-4e65-be95-04ef87a1db53",
+      "timestamp": "2025-05-09T04:26:43",
+      "input": "我是新上任的组织委员，不知道党日活动应该如何举办，请给一些建议细目"
+    },
+    "run_id": "fac17b2c-63cf-4e65-be95-04ef87a1db53",
+    "timestamp": "2025-05-09T04:26:43",
+    "record_id": "recuKFHBWcR90b"
+  },
+  {
+    "fields": {
+      "run_id": "372fdf90-85b5-49e3-8a9c-cd8da28874b3",
+      "timestamp": "2025-05-09T04:25:26",
+      "input": "我是支部副书记，现在准备组织一次主题党日活动，请问主题党日活动策划有模板吗"
+    },
+    "run_id": "372fdf90-85b5-49e3-8a9c-cd8da28874b3",
+    "timestamp": "2025-05-09T04:25:26",
+    "record_id": "recuKFHBWcfJYN"
   }
 ]
