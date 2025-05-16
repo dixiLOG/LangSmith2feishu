@@ -61,36 +61,6 @@
   },
   {
     "fields": {
-      "run_id": "6cd4abbc-7986-41b2-9d9a-26485436550f",
-      "timestamp": "2025-05-02T08:34:52",
-      "input": "简要一些"
-    },
-    "run_id": "6cd4abbc-7986-41b2-9d9a-26485436550f",
-    "timestamp": "2025-05-02T08:34:52",
-    "record_id": "recuK9tojM1fgE"
-  },
-  {
-    "fields": {
-      "run_id": "92251955-bb1b-4f21-aaf2-464de887f82c",
-      "timestamp": "2025-05-02T08:29:49",
-      "input": "入党资格"
-    },
-    "run_id": "92251955-bb1b-4f21-aaf2-464de887f82c",
-    "timestamp": "2025-05-02T08:29:49",
-    "record_id": "recuK9tojMUS6M"
-  },
-  {
-    "fields": {
-      "run_id": "245050f8-9c55-42b7-9234-bb48b7bfa41f",
-      "timestamp": "2025-05-02T08:29:24",
-      "input": "入党年龄"
-    },
-    "run_id": "245050f8-9c55-42b7-9234-bb48b7bfa41f",
-    "timestamp": "2025-05-02T08:29:24",
-    "record_id": "recuK9tojMM1R4"
-  },
-  {
-    "fields": {
       "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
       "timestamp": "2025-05-03T16:31:19",
       "input": "违规后果"
