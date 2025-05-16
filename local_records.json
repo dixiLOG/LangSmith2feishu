@@ -91,16 +91,6 @@
   },
   {
     "fields": {
-      "run_id": "d6be530e-76af-4e55-9912-5907ca8568b4",
-      "timestamp": "2025-05-02T08:01:07",
-      "input": "入党手续"
-    },
-    "run_id": "d6be530e-76af-4e55-9912-5907ca8568b4",
-    "timestamp": "2025-05-02T08:01:07",
-    "record_id": "recuK9tojMNABd"
-  },
-  {
-    "fields": {
       "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
       "timestamp": "2025-05-03T16:31:19",
       "input": "违规后果"
