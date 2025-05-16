@@ -101,36 +101,6 @@
   },
   {
     "fields": {
-      "run_id": "673935ad-76d9-498d-8045-7eddf183ca88",
-      "timestamp": "2025-05-02T07:37:57",
-      "input": "入党时间"
-    },
-    "run_id": "673935ad-76d9-498d-8045-7eddf183ca88",
-    "timestamp": "2025-05-02T07:37:57",
-    "record_id": "recuK9tojMm3gG"
-  },
-  {
-    "fields": {
-      "run_id": "c44bb064-a437-48f3-bd56-6940fa31c416",
-      "timestamp": "2025-05-02T07:37:03",
-      "input": "入党流程具体步骤"
-    },
-    "run_id": "c44bb064-a437-48f3-bd56-6940fa31c416",
-    "timestamp": "2025-05-02T07:37:03",
-    "record_id": "recuK9tojMBOaD"
-  },
-  {
-    "fields": {
-      "run_id": "993c6c2e-dce3-42c1-b8d9-af3a940ededf",
-      "timestamp": "2025-05-02T07:34:15",
-      "input": "党务工作有什么"
-    },
-    "run_id": "993c6c2e-dce3-42c1-b8d9-af3a940ededf",
-    "timestamp": "2025-05-02T07:34:15",
-    "record_id": "recuK9tojMhG4O"
-  },
-  {
-    "fields": {
       "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
       "timestamp": "2025-05-03T16:31:19",
       "input": "违规后果"
