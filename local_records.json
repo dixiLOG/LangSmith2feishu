@@ -1,16 +1,6 @@
 [
   {
     "fields": {
-      "run_id": "c8434e0a-34ec-44a2-9e37-85de727f11fd",
-      "timestamp": "2025-05-03T08:42:25",
-      "input": "生蚝煮熟了是什么"
-    },
-    "run_id": "c8434e0a-34ec-44a2-9e37-85de727f11fd",
-    "timestamp": "2025-05-03T08:42:25",
-    "record_id": "recuK9tojMWagi"
-  },
-  {
-    "fields": {
       "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
       "timestamp": "2025-05-03T16:31:19",
       "input": "违规后果"
