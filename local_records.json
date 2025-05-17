@@ -11,16 +11,6 @@
   },
   {
     "fields": {
-      "run_id": "1a831a86-f452-41ae-85bc-c209e9a8db01",
-      "timestamp": "2025-05-03T04:31:20",
-      "input": "列出你可以回答的所有党务问题"
-    },
-    "run_id": "1a831a86-f452-41ae-85bc-c209e9a8db01",
-    "timestamp": "2025-05-03T04:31:20",
-    "record_id": "recuK9tojMPfrw"
-  },
-  {
-    "fields": {
       "run_id": "5907b1d7-3ca7-4b9c-92ec-4a62445db8da",
       "timestamp": "2025-05-03T16:31:19",
       "input": "违规后果"
