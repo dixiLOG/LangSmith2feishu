@@ -1,26 +1,6 @@
 [
   {
     "fields": {
-      "run_id": "bf32cf8e-f4ff-46a8-b886-56ccc098dba5",
-      "timestamp": "2025-05-04T01:26:38",
-      "input": "我现在17岁，想交入党申请书，格式怎么写？"
-    },
-    "run_id": "bf32cf8e-f4ff-46a8-b886-56ccc098dba5",
-    "timestamp": "2025-05-04T01:26:38",
-    "record_id": "recuKbN5PacXjy"
-  },
-  {
-    "fields": {
-      "run_id": "6351d112-dfda-49dc-9e6f-6f1edb155385",
-      "timestamp": "2025-05-04T01:16:47",
-      "input": "你好"
-    },
-    "run_id": "6351d112-dfda-49dc-9e6f-6f1edb155385",
-    "timestamp": "2025-05-04T01:16:47",
-    "record_id": "recuKbN5PaG7ZZ"
-  },
-  {
-    "fields": {
       "run_id": "4cf49024-c156-44f9-bae2-e08563c75979",
       "timestamp": "2025-05-04T08:52:18",
       "input": "兰花象征什么？"
