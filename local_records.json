@@ -1,56 +1,6 @@
 [
   {
     "fields": {
-      "run_id": "4cf49024-c156-44f9-bae2-e08563c75979",
-      "timestamp": "2025-05-04T08:52:18",
-      "input": "兰花象征什么？"
-    },
-    "run_id": "4cf49024-c156-44f9-bae2-e08563c75979",
-    "timestamp": "2025-05-04T08:52:18",
-    "record_id": "recuKdw17O535O"
-  },
-  {
-    "fields": {
-      "run_id": "2b5aad0d-bcc3-48ed-8f49-07a42df6e38b",
-      "timestamp": "2025-05-04T08:51:46",
-      "input": "兰生幽谷与党的理念相关吗？"
-    },
-    "run_id": "2b5aad0d-bcc3-48ed-8f49-07a42df6e38b",
-    "timestamp": "2025-05-04T08:51:46",
-    "record_id": "recuKdw17O8K4A"
-  },
-  {
-    "fields": {
-      "run_id": "4e09d73d-41e4-43d8-9d44-003fe47f4d18",
-      "timestamp": "2025-05-04T08:51:13",
-      "input": "兰生幽谷，不为莫服而不芳，体现了党的什么理念"
-    },
-    "run_id": "4e09d73d-41e4-43d8-9d44-003fe47f4d18",
-    "timestamp": "2025-05-04T08:51:13",
-    "record_id": "recuKdw17OXbAp"
-  },
-  {
-    "fields": {
-      "run_id": "6362cc44-59e6-4035-abeb-0f534fe531fe",
-      "timestamp": "2025-05-04T08:50:28",
-      "input": "巴拉拉全身变"
-    },
-    "run_id": "6362cc44-59e6-4035-abeb-0f534fe531fe",
-    "timestamp": "2025-05-04T08:50:28",
-    "record_id": "recuKdw17Oufm5"
-  },
-  {
-    "fields": {
-      "run_id": "c2a26b08-5ab9-466b-a88c-37004f97f429",
-      "timestamp": "2025-05-04T09:00:22",
-      "input": "我是新上任的组织委员，不知道党日活动应该如何举办，请给一些建议细目"
-    },
-    "run_id": "c2a26b08-5ab9-466b-a88c-37004f97f429",
-    "timestamp": "2025-05-04T09:00:22",
-    "record_id": "recuKdxCWbDH01"
-  },
-  {
-    "fields": {
       "run_id": "0b3e0fc6-97ba-4423-9ed2-cc7aea22ca72",
       "timestamp": "2025-05-06T00:42:22",
       "input": "我在企业工作过，今年6月辞职，9月研究生入学后党员组织关系转到了信息学院，现在党费该交到哪里？缴纳标准是多少？"
